@@ -1,2 +1,3 @@
 # hello-world
-just to start
+
+Let's begin our mistery tour on github.
